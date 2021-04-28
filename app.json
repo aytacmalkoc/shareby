@@ -1,0 +1,12 @@
+{
+  "name": "shareby",
+  "displayName": "shareby",
+  "expo": {
+    "name": "shareby",
+    "slug": "shareby",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
